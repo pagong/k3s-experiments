@@ -21,4 +21,5 @@ Other:
   * [RIO](https://github.com/rancher/rio)
   * [Submariner](https://github.com/submariner-io/submariner)
 
+## Details
 See the [wiki](https://github.com/pagong/k3s-experiments/wiki) for more details.
