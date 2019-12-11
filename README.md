@@ -10,7 +10,7 @@ Container OS:
   * [K3OS](https://github.com/rancher/k3os) 
   * [RancherOS](https://github.com/rancher/os)
   
-K8s management:  
+K8s cluster management:  
   * [Rancher](https://github.com/rancher/rancher) 
   
 Storage:
