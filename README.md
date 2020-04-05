@@ -1,6 +1,6 @@
 # k3s-experiments
 
-Learn about Kubernetes by using Rancher tools:
+Learn about Kubernetes by using Rancher Labs' tools:
 
 Kubernetes:
   * [K3s](https://github.com/rancher/k3s) 
@@ -14,7 +14,7 @@ K8s cluster management:
   * [Rancher](https://github.com/rancher/rancher) 
   
 Storage:
-  * [Rancher](https://github.com/rancher/local-path-provisioner)
+  * [Localpath Provisioner](https://github.com/rancher/local-path-provisioner)
   * [Longhorn](https://github.com/longhorn/longhorn) 
   
 Other:
