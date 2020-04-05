@@ -1,4 +1,4 @@
-# Installation of Rancher 2.3 on k3OS
+# Installation of Rancher 2.4 on k3OS
 
 ## Ingredients
   - A Linux VM with 2 cpus and 2GB memory. \
